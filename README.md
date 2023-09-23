@@ -5,16 +5,16 @@
   <img src="https://drive.google.com/uc?id=1o4dWZN63hRRnLNKo3Kel118uzV7PyAqF" style="width:130px"/>
 </div>
 
-### <div align="center">I'm a Switzerland developer.</div>
+### <div align="center">a Swiss developer.</div>
 
 
 - 🔭 I am currently training as a computer scientist with a focus on development
 
 
-- 🌱 I’m currently learning ReactJS/NodeJS and C
+- 🌱 I’m currently learning C
 
 
-- ❓ You can Email Me Through [Here](mailto:dolbaeb.dev.pro@gmail.com)
+- ❓ You can Email Me Through [dolbaeb.dev.pro@gmail.com](mailto:dolbaeb.dev.pro@gmail.com)
 
 <br/>  
 <br/>
