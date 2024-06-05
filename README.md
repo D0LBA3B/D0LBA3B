@@ -1,12 +1,9 @@
 ## <div align="center">I'm DOLBA3B <img src="https://avatars.githubusercontent.com/u/99276828?v=4" style="width:20px"/></div>
-
-<br>
 <div style ="display:flex;" align="center">
-  <img src="https://drive.google.com/uc?id=1o4dWZN63hRRnLNKo3Kel118uzV7PyAqF" style="width:130px"/>
+  <img src="https://drive.google.com/uc?id=1m0Mi9AzMF4shsGmi3hypAsxL1GD5W2Ft" style="width:150px"/>
 </div>
 
 ### <div align="center">a Swiss developer.</div>
-
 
 - 🔭 I am currently training as a computer scientist with a focus on development
 
@@ -47,7 +44,9 @@
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50"></a>
 <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50"></a>
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a> 
+<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
 </div>
 </td>
 <td valign="top" width="33%">
@@ -56,16 +55,16 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50"></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50"></a>
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50"></a>
+<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>
+<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
 </div>
 </td></tr></table>
 
 <br/>  
 
-
-
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=D0LBA3B&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <br/>
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=21rxddswpuzsm36mb4ymdp73a&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=D0LBA3B&&style=flat-square" align="center" />
