@@ -1,20 +1,4 @@
-## <div align="center">I'm DOLBA3B <img src="https://avatars.githubusercontent.com/u/99276828?v=4" style="width:20px"/></div>
-<div style ="display:flex;" align="center">
-  <img src="https://drive.google.com/uc?id=1m0Mi9AzMF4shsGmi3hypAsxL1GD5W2Ft" style="width:150px"/>
-</div>
-
-### <div align="center">a Swiss developer.</div>
-
-- 🔭 I am currently training as a computer scientist with a focus on development
-
-
-- 🌱 I’m currently learning C
-
-
-- ❓ You can Email Me Through [dolbaeb.dev.pro@gmail.com](mailto:dolbaeb.dev.pro@gmail.com)
-
-<br/>  
-<br/>
+<div align="center">I'm DOLBA3B <img src="https://avatars.githubusercontent.com/u/99276828?v=4" style="width:20px"/></div>
 
 ## Tech Stack
 
