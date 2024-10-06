@@ -47,7 +47,7 @@
 <br/>  
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=D0LBA3B&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats-three-nu-74.vercel.app/api?username=D0LBA3B&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <br/>
 
 <div align="center">
